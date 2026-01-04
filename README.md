@@ -1,7 +1,9 @@
 # Exploring Demographic Insights in Australia
 <img width="595" height="841" alt="Exploring Demographic Insights in Australia" src="https://github.com/user-attachments/assets/c1181787-6a2f-48f3-8929-c50bbf5e6874" />
 <img width="595" height="841" alt="Exploring Demographic Insights in Australia copy" src="https://github.com/user-attachments/assets/4533faec-545e-42d9-adfc-b18f34903f94" />
+
 Visualisation link: [https://james-jh.github.io/html-js-australian-demographics//](https://james-jh.github.io/html-js-australian-demographics/)
+
 ## Overview
 In this project, I explore Australia’s demographic landscape, focusing on population dynamics such as age distribution, migration patterns, and birth and death rates. The aim is to communicate complex demographic trends through clear and engaging visualisations that are accessible to both decision-makers and the general public.
 
