@@ -1,4 +1,3 @@
-# Exploring Demographic Insights in Australia
 <img width="873" height="542" alt="vis1" src="https://github.com/user-attachments/assets/405d3a49-bdb4-45f6-ad68-bbcc6ed3e8a5" />
 <img width="838" height="558" alt="vis2" src="https://github.com/user-attachments/assets/862efeb9-14b4-437c-a87e-42da84fc4df8" />
 <img width="828" height="252" alt="vis3" src="https://github.com/user-attachments/assets/f5808a83-ebde-4884-9a4f-dc9211c33e8f" />
