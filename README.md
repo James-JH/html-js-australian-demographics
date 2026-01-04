@@ -2,6 +2,8 @@ Access the visualisation through this link: [https://james-jh.github.io/html-js-
 
 # Exploring Demographic Insights in Australia
 
+![Exploring Demographic Insights in Australia](Exploring Demographic Insights in Australia.pdf)
+
 ## Overview
 In this project, I explore Australia’s demographic landscape, focusing on population dynamics such as age distribution, migration patterns, and birth and death rates. The aim is to communicate complex demographic trends through clear and engaging visualisations that are accessible to both decision-makers and the general public.
 
