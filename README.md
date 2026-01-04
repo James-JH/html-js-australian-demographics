@@ -1,6 +1,7 @@
 # Exploring Demographic Insights in Australia
-<img width="595" height="841" alt="Exploring Demographic Insights in Australia" src="https://github.com/user-attachments/assets/c1181787-6a2f-48f3-8929-c50bbf5e6874" />
-<img width="595" height="841" alt="Exploring Demographic Insights in Australia copy" src="https://github.com/user-attachments/assets/4533faec-545e-42d9-adfc-b18f34903f94" />
+<img width="873" height="542" alt="vis1" src="https://github.com/user-attachments/assets/405d3a49-bdb4-45f6-ad68-bbcc6ed3e8a5" />
+<img width="838" height="558" alt="vis2" src="https://github.com/user-attachments/assets/862efeb9-14b4-437c-a87e-42da84fc4df8" />
+<img width="828" height="252" alt="vis3" src="https://github.com/user-attachments/assets/f5808a83-ebde-4884-9a4f-dc9211c33e8f" />
 
 Visualisation link: [https://james-jh.github.io/html-js-australian-demographics//](https://james-jh.github.io/html-js-australian-demographics/)
 
