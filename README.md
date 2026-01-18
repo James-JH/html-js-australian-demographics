@@ -2,7 +2,7 @@
 <img width="838" height="558" alt="vis2" src="https://github.com/user-attachments/assets/862efeb9-14b4-437c-a87e-42da84fc4df8" />
 <img width="828" height="252" alt="vis3" src="https://github.com/user-attachments/assets/f5808a83-ebde-4884-9a4f-dc9211c33e8f" />
 
-Visualisation link: [https://james-jh.github.io/html-js-australian-demographics//](https://james-jh.github.io/html-js-australian-demographics/)
+Visualisation link: [**australian-demographics**](https://james-jh.github.io/html-js-australian-demographics/)
 
 ## Overview
 In this project, I explore Australia’s demographic landscape, focusing on population dynamics such as age distribution, migration patterns, and birth and death rates. The aim is to communicate complex demographic trends through clear and engaging visualisations that are accessible to both decision-makers and the general public.
@@ -69,13 +69,11 @@ In future iterations, I would like to:
 - **Vega-Lite** for declarative data visualisation
 - Data sourced and prepared from **Australian Bureau of Statistics (ABS)** datasets
 
-This repository contains all the necessary files and data for the "Exploring Demographic Insights in Australia" webpage containing the relevant visualisations.
-
-Important references:
+## Important references:
 - Latitude and longitude of the Australian capital cities - https://simplemaps.com/data/au-cities
 - Map of Australia TopoJson MapChart - https://github.com/alwaysblazing/Australia-State-TopoJson-MapChart
 
-Plagiarism Notice:
+**Plagiarism Notice:**
 Code in this repository is not endorsed by Monash University. Please note that copying the code for unit assessments without referencing will result in a breach in Academic Integrity Policy. The author @James-JH will not be held responsible for these breaches. For more information please visit: https://www.monash.edu/students/academic/policies/academic-integrity.
 
 ## Author
